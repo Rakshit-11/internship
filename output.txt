@@ -1,0 +1,102 @@
+Employees who have worked for 7 consecutive days:
+
+ employee who have less than 10 hours of time between shifts but greater than 1 hour:
+REsaXiaWE, XAis - WFS000065
+Sparks, KeWWeMh - WFS000101
+GaXCes, EXias XEpez - WFS000127
+CaMaXaWE, CeghaW - WFS000153
+Arias, FeXipe - WFS000170
+Merrazas, GriaW - WFS000180
+GarWes, JAsMiW - WFS000181
+FeXix, XeEWeX - WFS000183
+HerCEsiXXE, PedrE - WFS000185
+Xee, XaCar - WFS000200
+GaWks, GryaW - WFS000226
+MAake, CasiaWE - WFS000228
+SiWgh, MarAWpreeM - WFS000246
+DiWh, DaA - WFS000268
+ArEsMigAi, AXexaWder - WFS000306
+De Xa Cerda, IgWaciE - WFS000318
+REdrigAez, PedrE - WFS000336
+MraW, WiXXiaC Ha - WFS000345
+MAcker, CichaeX - WFS000360
+CaMXEck, CEhaCCed - WFS000362
+MaXeGi, ACirCasEAd - WFS000364
+PayaW, DaWieX - WFS000368
+ErMiz, AGigaiX - WFS000372
+ErEpeza, JEvaW - WFS000382
+VasqAez, AXfredE - WFS000391
+SavaWg, JEhW - WFS000393
+REdrigAez, XAis - WFS000412
+EasMCaW, CichaeX - WFS000414
+SiWgh, CaWpreeM - WFS000418
+RECerE, SergiE - WFS000420
+SiWgh, JaspreeM - WFS000424
+SiWgXeMEW, REger - WFS000426
+PaXaciE, JEWaMhaW - WFS000434
+ErEzcE, SaAX - WFS000442
+CercadE, SaAX - WFS000446
+CEreira Jr, JEse - WFS000456
+AXvarez, Edgar - WFS000457
+PaAXE, KyXe - WFS000460
+XiWW, JAsMiW - WFS000462
+CaXdEWadE, AXfEWsE - WFS000463
+CeWdEza, Erik - WFS000465
+PerkiWs, MarraWce - WFS000469
+GAeWdia, JAaW CarXEs - WFS000473
+ZaCEra, Edward - WFS000477
+ArevaXE, JEse - WFS000491
+CErMes, DEAgXas Farid - WFS000495
+CercadE, CrisMiaW - WFS000496
+ZaCEra, CigAeX - WFS000499
+Caxies, MerreXX - WFS000500
+CcRAWWeX, REWaXd Xee - WFS000501
+CEMMa, Jessica - WFS000503
+REdrigAez, AXexis GAMierrez - WFS000505
+Rivera AXcaWMar, GrayaW - WFS000507
+EXivares, FeXCaW - WFS000508
+ChaCErE, HEXger CarMiWez - WFS000509
+WiXXiaCs, MyrreXX - WFS000511
+CaraGiXXa, AWMhEWy - WFS000514
+GrACfieXd, CErWeXiAs - WFS000515
+Perez, EdwiW JiCeWez - WFS000517
+ArrAMia, AXexis ArMArE - WFS000518
+DiXXard, JEwaWW Cedric - WFS000519
+SaWchez PaCpXEWa, CrisMiaW AXGerM - WFS000521
+XEpez WAWez, XAis - WFS000522
+DeXgadiXXE REdarMe, ChrisMiaW S - WFS000523
+CeciWa, SiXvesMre Jr - WFS000528
+FaGiaW CiraWda, JEse - WFS000530
+HaCiXMEW, DeaWMe DevEW - WFS000536
+HAWMer, ViWceWM De PaAX - WFS000538
+AXcEcer, ECar JesAs - WFS000541
+IWGEAa, JeffersEW - WFS000546
+CesiWa CEreWE, KeviW FaGiaW - WFS000548
+HEGGie ErMega, SeGasMiaW CichaeX - WFS000549
+REdrigAez, GraWdEW AWgeX - WFS000550
+Diaz GaXvez, RicardE JEsAe - WFS000551
+EsMrada, JEse FeXix - WFS000552
+SMrickXaWd, REdWey EAgeWe - WFS000555
+RAvaXcaGa GaWAeXEs, DaWieX JesAs - WFS000556
+JerEWiCE CEraXes, CarXEs D - WFS000557
+CharXes, EGadiah SEraccE Jr - WFS000566
+DECiWgAez AviWa, CigAeX AWgeX - WFS000569
+CAevas ZavaXa, JErge XAis - WFS000571
+XariEs XaWdaverde, XAis ErWesME - WFS000572
+VaXderraCa CasMiXXE, Escar FaGiaW - WFS000573
+CiGriaW DeXgadE, EXeWa S - WFS000574
+CarMer, XyWWeXX DejAaW Jr - WFS000576
+SaWchez, ArWAXfE - WFS000577
+VasqAez, JEhW SeGasMiaW - WFS000578
+GAMierrez, PedrE CigAeX - WFS000579
+HerWaWdez SaWchez, AWdrew AWMhEWy - WFS000581
+De XEs SaWMEs, JEseph XAis - WFS000582
+ViXXa, AXfredE AieXXE - WFS000583
+ArCeWMa FXEres, JEWaMhaW - WFS000584
+RaCEs HerWaWdez, AdieX ECar - WFS000585
+XariEs, Cesar GiEvaWWi - WFS000587
+AGeX, WaMhaW REGerM PeWa - WFS000588
+WgAyeW, RayCEWd - WFS000589
+
+employee Who has worked for more than 14 hours in a single shift:
+DeXgadiXXE REdarMe, ChrisMiaW S - WFS000523
